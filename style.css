@@ -17,4 +17,8 @@ body
 	display: inline-block;
 	margin-left: 0px;
 }
+#div1 , #div2
+{
+   background-color: black;
+}
 
