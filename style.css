@@ -1,6 +1,6 @@
 body
 {
-	background: lightblue;
+	background-image: url("Screenshot\ \(47\).png");
 }
 
 	.login_div1 , .login_div2
@@ -17,3 +17,4 @@ body
 	display: inline-block;
 	margin-left: 0px;
 }
+
