@@ -1,6 +1,6 @@
 body
 {
-	background-image: url("Screenshot\ \(47\).png");
+	background-image: url("Screenshot\ \(50\).png");
 }
 
 	.login_div1 , .login_div2
@@ -19,6 +19,6 @@ body
 }
 #div1 , #div2
 {
-   background:black;
+   background-color: yellowgreen;
 }
 

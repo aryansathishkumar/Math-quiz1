@@ -1,14 +1,10 @@
-var score = 0;
-function updateScore()
+function user()
 {
-    score+=1;
-    document.getElementById("score").innerHTML = score;
-}
-function saveScore()
-{
-    localStorage.setItem("score", score);
-}
-function nextPage()
-{
-    window.location = "index3.html"
+    name1 = document.getElementById("player_1").value;
+    name2 = document.getElementById("player_2").value;
+
+    localStorage.setItem("name1", name1);
+    localStorage.setItem("name2", name2);
+
+    window.location = "Math_Quiz.html";
 }
